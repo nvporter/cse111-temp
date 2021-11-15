@@ -1,0 +1,15 @@
+check to make sure git is installed
+    git verison
+Initialize git repository
+    git init
+Connect to local folder to GitHub repository
+    git remote add origin https://github.com/nvporter/cse111-temp.git
+        checl to make sure it connected properly
+            git remote -v
+git add
+Check for changes
+    git status
+Stage files for commit -m "message"
+git commit -m 
+    git commit push changes to GitHub
+        git push origin master
